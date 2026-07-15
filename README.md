@@ -22,6 +22,6 @@ Astro 5 · Tailwind CSS · Supabase · Node.js + Playwright worker · Gemini 2.5
 ## Links
 
 - 🌐 **Live site:** [aiagentsvault.com](https://aiagentsvault.com)
-- 📇 **More projects:** [Portfolio](https://github.com/growtlab-eng/my-portfolio)
+- 📇 **More projects:** [Portfolio](https://github.com/growtlab-eng/Anuurag-Singh-Portfolio)
 
 > Source code is private. This repository documents the product.
